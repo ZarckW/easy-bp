@@ -16,5 +16,7 @@ Use easy bp network to identify cats
 Clone this git and run with:
 'python3 easy_bp.py'
 ## Detials
-x for train datas  y for train tags<br>
-Te_x for test datas   Te_y for test tags
+x for train datas<br> 
+y for train tags<br>
+Te_x for test datas  <br> 
+Te_y for test tags
